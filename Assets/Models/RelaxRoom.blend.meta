@@ -1,15 +1,60 @@
 fileFormatVersion: 2
-guid: 468f72ebd8686e9469e1386676e5facd
-timeCreated: 1479827482
+guid: 6d7c38db99e31a6469bab54b76b6e9d2
+timeCreated: 1480432817
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Cube
+    100000: Flooe1
+    100002: Flooe1_001
+    100004: Flooe1_002
+    100006: Flooe1_004
+    100008: //RootNode
+    100010: Walls1
+    100012: Walls1_001
+    100014: Walls1_002
+    100016: "\u041A\u043E\u043D\u0443\u0441"
+    400000: Flooe1
+    400002: Flooe1_001
+    400004: Flooe1_002
+    400006: Flooe1_004
+    400008: //RootNode
+    400010: Walls1
+    400012: Walls1_001
+    400014: Walls1_002
+    400016: "\u041A\u043E\u043D\u0443\u0441"
+    2300000: Flooe1
+    2300002: Flooe1_001
+    2300004: Flooe1_002
+    2300006: Flooe1_004
+    2300008: Walls1
+    2300010: Walls1_001
+    2300012: Walls1_002
+    2300014: "\u041A\u043E\u043D\u0443\u0441"
+    3300000: Flooe1
+    3300002: Flooe1_001
+    3300004: Flooe1_002
+    3300006: Flooe1_004
+    3300008: Walls1
+    3300010: Walls1_001
+    3300012: Walls1_002
+    3300014: "\u041A\u043E\u043D\u0443\u0441"
+    4300000: Flooe1_004
+    4300002: Walls1_002
+    4300004: Flooe1_002
+    4300006: Walls1_001
+    4300008: "\u041A\u043E\u043D\u0443\u0441"
+    4300010: Flooe1_001
+    4300012: Walls1
+    4300014: Flooe1
+    6400000: Flooe1
+    6400002: Flooe1_001
+    6400004: Flooe1_002
+    6400006: Flooe1_004
+    6400008: Walls1
+    6400010: Walls1_001
+    6400012: Walls1_002
+    6400014: "\u041A\u043E\u043D\u0443\u0441"
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -38,7 +83,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
